@@ -1,0 +1,3 @@
+SEPOLIA_RPC_URL="https://sepolia.infura.io/v3/<your infura key>"
+PRIVATE_KEY="<your private key>"
+ETHERSCAN_API_KEY="<optional>"
